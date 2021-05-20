@@ -1,0 +1,28 @@
+
+BEST K:
+ precision [97.0] = 0.82
+    recall [2.0] = 0.93
+ randindex [23.0] = 0.92
+arandindex [15.0] = 0.52
+        f1 [6.0] = 0.57
+silhouette [16.0] = 0.55
+
+BEST EPS:
+ precision [142.0] = 0.6
+    recall [384.0] = 0.92
+ randindex [142.0] = 0.92
+arandindex [142.0] = 0.52
+        f1 [147.0] = 0.56
+silhouette [384.0] = 0.31
+
+BEST N:
+ precision [50.0] = 0.75
+    recall [5.0] = 0.91
+ randindex [24.0] = 0.92
+arandindex [7.0] = 0.6
+        f1 [7.0] = 0.65
+silhouette [25.0] = 0.54
+
+best k: 15 (ARI error = 0.52)
+best eps: 142 (ARI error = 0.52)
+best n: 7 (ARI error = 0.6)
